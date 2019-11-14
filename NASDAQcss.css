@@ -1,0 +1,46 @@
+.sect1{
+	background-color: black;
+}
+.header{
+display: flex;
+align-items: center;
+}
+.sect2{
+	background-color: black;
+	padding-bottom: 10px;
+}
+.heading{
+	margin-right: 100px;
+	margin-left: 20px;
+	font-size: 100px;
+	font-family: "Yeon Sung", cursive;
+}
+.flex-container{
+	display: inline-flex;
+	justify-content: space-between 20px;
+}
+img{
+	margin-right: 20px;
+}
+.content{
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.flex-container{
+	padding-top: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: center;
+}
+.buffer{
+	height: 50px;
+}
+.register{
+	margin-left: 600px;
+}
+.tag{
+	padding-top: 100px;
+}

@@ -1,0 +1,27 @@
+.sect1{
+	background-color: black;
+}
+.sect2{
+	background-color: black;
+	padding-bottom: 10px;
+}
+.header{
+display: flex;
+align-items: center;
+}
+.flex-container{
+	display: inline-flex;
+	justify-content: space-between 20px;
+}
+p{
+	margin-right: 100px;
+	margin-left: 20px;
+	font-size: 100px;
+	font-family: "Yeon Sung", cursive;
+}
+
+img{
+	margin-right: 20px;
+}
+.sect3{
+}
